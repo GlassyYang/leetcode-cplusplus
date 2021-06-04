@@ -15,5 +15,7 @@
 #include <deque>
 #include <unordered_set>
 #include <unordered_map>
+#include <deque>
+#include "array"
 using namespace std;
 #endif //LEETCODE_COMMON_HEADER_H
