@@ -20,6 +20,9 @@
 #include <numeric>
 #include <iterator>
 #include <cmath>
+#include <forward_list>
+#include "ListNode.h"
+#include "memory"
 using namespace std;
 class CustomFunction {
 public:
