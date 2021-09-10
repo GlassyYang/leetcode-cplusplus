@@ -21,6 +21,7 @@
 #include <iterator>
 #include <cmath>
 #include <forward_list>
+#include <cctype>
 #include "ListNode.h"
 #include "memory"
 using namespace std;
